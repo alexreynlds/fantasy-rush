@@ -69,7 +69,7 @@ stamina_potion = Item(
 )
 
 lightning_boots = Item(
-    "Lightning Boots", 8, "equipment", apply_lightning_boots, "Restore Mana"
+    "Lightning Boots", 8, "equipment", apply_lightning_boots, "Increase your speed"
 )
 lucky_clover = Item(
     "Lucky Clover", 8, "equipment", apply_lucky_clover, "Increase your crit chance"
