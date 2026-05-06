@@ -2,7 +2,7 @@
 
 A small, fully self programmed, turn-based CLI combat game, where you have to survive 20 rounds in an arena, including boss fights, to win and save your favourite pet.
 
-This project was created as part of my Boot.dev journey, you can find the rest of my Boot.dev projects [here](https://github.com/alexreynlds/bootdotdev-projects)
+This project was created as part of my [Boot.dev](http://boot.dev/) journey, you can find the rest of my Boot.dev projects [here](https://github.com/alexreynlds/bootdotdev-projects)
 
 ![Fantasy Rush gameplay](./screenshots/1.png)
 
